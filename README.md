@@ -17,11 +17,6 @@ Implement your own version of the map, using the us state geojson data provided 
 
  Make intentional design decisions -- colors, sizes, axes, transitions, etc. should illustrate something interesting about or relevant to your data.
  
- BONUS:
-
- Add another data element to your map, such as using color or radius to represent a value, like this or this.
-
- Implement transitions on your points, so the map begins blank, then they appear in a thoughtful way.
  
  Resources:
  
