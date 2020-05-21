@@ -70,10 +70,10 @@ function init() {
 
   // EXAMPLE 1: going from Lat-Long => x, y
   // for how to position a dot
-  const GradCenterCoord = { latitude: 40.7423, longitude: -73.9833 };
+  const LincolnCenterCoord = { latitude: 40.7423, longitude: -73.9833 };
   svg
     .selectAll("circle")
-    .data([GradCenterCoord])
+    .data([LincolnCenterCoord])
     .join("circle")
     .attr("r", 20)
     .attr("fill", "steelblue")
